@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/AmanZon/static/js/main.29939e34.chunk.js",
+    "main.js.map": "/AmanZon/static/js/main.29939e34.chunk.js.map",
+    "runtime-main.js": "/AmanZon/static/js/runtime-main.fa353f34.js",
+    "runtime-main.js.map": "/AmanZon/static/js/runtime-main.fa353f34.js.map",
+    "static/js/2.a525099c.chunk.js": "/AmanZon/static/js/2.a525099c.chunk.js",
+    "static/js/2.a525099c.chunk.js.map": "/AmanZon/static/js/2.a525099c.chunk.js.map",
+    "static/js/3.bbeba3ab.chunk.js": "/AmanZon/static/js/3.bbeba3ab.chunk.js",
+    "static/js/3.bbeba3ab.chunk.js.map": "/AmanZon/static/js/3.bbeba3ab.chunk.js.map",
+    "index.html": "/AmanZon/index.html",
+    "static/js/2.a525099c.chunk.js.LICENSE.txt": "/AmanZon/static/js/2.a525099c.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/AmanZon/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/AmanZon/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/AmanZon/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/AmanZon/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/AmanZon/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/AmanZon/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/AmanZon/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa353f34.js",
+    "static/js/2.a525099c.chunk.js",
+    "static/js/main.29939e34.chunk.js"
+  ]
+}
